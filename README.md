@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MariaCasiba. This is my first proyect using JavaScript. 
-- 🌱 I’m currently learning JavaScript at CoderHouse
+- 👋 Hi, I’m @MariaCasiba. 
+- 🌱 I’m currently learning JavaScript at CoderHouse.
 
 
 <!---

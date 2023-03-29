@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @MariaCasiba. 
-- 🌱 I’m currently learning JavaScript at CoderHouse.
+- 🌱 I’m currently learning ReactJS at CoderHouse.
 
 
 <!---
